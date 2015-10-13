@@ -1,0 +1,15 @@
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bin\Debug\ReverseMap\resources.pri
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bin\Debug\AppxManifest.xml
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bin\Debug\fruit-splash.build.appxrecipe
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\priconfig.xml
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\priconfig.xml.intermediate
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\layout.resfiles
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\layout.resfiles.intermediate
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\resources.resfiles
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\resources.resfiles.intermediate
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\pri.resfiles
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\pri.resfiles.intermediate
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\qualifiers.txt
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\qualifiers.txt.intermediate
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\ProjectArchitectures.txt

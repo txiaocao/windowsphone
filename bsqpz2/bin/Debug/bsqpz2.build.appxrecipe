@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-20120726YXBR</Machine>
+    <WindowsUser>k</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5690808f-7fce-4627-a761-09faf84eb5ea</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\Assets\Square44x44Logo.scale-240.png">
+      <PackagePath>Assets\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\icon.scale-100.png">
+      <PackagePath>icon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\note\20150408063555998.png">
+      <PackagePath>note\20150408063555998.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\note\20150505115401661.png">
+      <PackagePath>note\20150505115401661.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\res\bg.png">
+      <PackagePath>res\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\res\imgs.png">
+      <PackagePath>res\imgs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\share.png">
+      <PackagePath>share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\game.html">
+      <PackagePath>game.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\js\cocos2d-3.0rc1.canvas.v2.min.js">
+      <PackagePath>js\cocos2d-3.0rc1.canvas.v2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\js\game.min.js">
+      <PackagePath>js\game.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\js\game9g.utils.js">
+      <PackagePath>js\game9g.utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\src\app.js">
+      <PackagePath>src\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\note\逼死强迫症.txt">
+      <PackagePath>note\逼死强迫症.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\project.json">
+      <PackagePath>project.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\res\imgs.json">
+      <PackagePath>res\imgs.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

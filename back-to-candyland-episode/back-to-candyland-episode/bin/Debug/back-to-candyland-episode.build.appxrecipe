@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-20120726YXBR</Machine>
+    <WindowsUser>cof</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b4684bed-0c87-4803-8219-0cba2e42a568</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\api\js\game.js">
+      <PackagePath>api\js\game.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\cdn.flurry.com\js\flurry.js">
+      <PackagePath>cdn.flurry.com\js\flurry.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\code.createjs.com\createjs-2014.12.12.min.js">
+      <PackagePath>code.createjs.com\createjs-2014.12.12.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\createjs-2014.12.12.min.js">
+      <PackagePath>createjs-2014.12.12.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\flurry.js">
+      <PackagePath>flurry.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\game.js">
+      <PackagePath>game.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\jelly.js">
+      <PackagePath>jelly.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\jquery.1.9.1.js">
+      <PackagePath>jquery.1.9.1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\lib\viewporter.js">
+      <PackagePath>lib\viewporter.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\app.css">
+      <PackagePath>app.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\art.png">
+      <PackagePath>assets\art.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\art_usual_gems.png">
+      <PackagePath>assets\art_usual_gems.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\art.png">
+      <PackagePath>assets\episode2\art.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\tutorial\t1.png">
+      <PackagePath>assets\episode2\tutorial\t1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\tutorial\t2.png">
+      <PackagePath>assets\episode2\tutorial\t2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\tutorial\t3.png">
+      <PackagePath>assets\episode2\tutorial\t3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\tutorial\t4.png">
+      <PackagePath>assets\episode2\tutorial\t4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\tutorial\t5.png">
+      <PackagePath>assets\episode2\tutorial\t5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\tutorial\t6.png">
+      <PackagePath>assets\episode2\tutorial\t6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\tutorial\t7.png">
+      <PackagePath>assets\episode2\tutorial\t7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\etc\bar.png">
+      <PackagePath>assets\etc\bar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\preloader\zibbo_logo.png">
+      <PackagePath>assets\preloader\zibbo_logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\mirror\img\logo_gamesgames_202x50.png">
+      <PackagePath>mirror\img\logo_gamesgames_202x50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\back.jpg">
+      <PackagePath>assets\episode2\back.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\logo top.jpg">
+      <PackagePath>assets\episode2\logo top.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\main menu.jpg">
+      <PackagePath>assets\episode2\main menu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\map1.jpg">
+      <PackagePath>assets\episode2\map1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\map2.jpg">
+      <PackagePath>assets\episode2\map2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\map3.jpg">
+      <PackagePath>assets\episode2\map3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\etc\menu back.jpg">
+      <PackagePath>assets\etc\menu back.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\preloader\circle.jpg">
+      <PackagePath>assets\preloader\circle.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\preloader\preloader back no logo.jpg">
+      <PackagePath>assets\preloader\preloader back no logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\preloader\progressbar top.jpg">
+      <PackagePath>assets\preloader\progressbar top.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\episode2\music\btcl_main_music.ogg">
+      <PackagePath>assets\episode2\music\btcl_main_music.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\bonus_bomb.ogg">
+      <PackagePath>assets\sound\bonus_bomb.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\bonus_color.ogg">
+      <PackagePath>assets\sound\bonus_color.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\bonus_line.ogg">
+      <PackagePath>assets\sound\bonus_line.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\bonus_set.ogg">
+      <PackagePath>assets\sound\bonus_set.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\bonus_show.ogg">
+      <PackagePath>assets\sound\bonus_show.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\bush_remove.ogg">
+      <PackagePath>assets\sound\bush_remove.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\button.ogg">
+      <PackagePath>assets\sound\button.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\cake_down.ogg">
+      <PackagePath>assets\sound\cake_down.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\chocolate_bomb.ogg">
+      <PackagePath>assets\sound\chocolate_bomb.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\choco_crash.ogg">
+      <PackagePath>assets\sound\choco_crash.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\color_crash.ogg">
+      <PackagePath>assets\sound\color_crash.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\cookie_crash.ogg">
+      <PackagePath>assets\sound\cookie_crash.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\fail.ogg">
+      <PackagePath>assets\sound\fail.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\hero_hide.ogg">
+      <PackagePath>assets\sound\hero_hide.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\hero_show.ogg">
+      <PackagePath>assets\sound\hero_show.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\pause.ogg">
+      <PackagePath>assets\sound\pause.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\play_button.ogg">
+      <PackagePath>assets\sound\play_button.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\pointer.ogg">
+      <PackagePath>assets\sound\pointer.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\remove1.ogg">
+      <PackagePath>assets\sound\remove1.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\remove2.ogg">
+      <PackagePath>assets\sound\remove2.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\remove3.ogg">
+      <PackagePath>assets\sound\remove3.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\remove4.ogg">
+      <PackagePath>assets\sound\remove4.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\root_remove.ogg">
+      <PackagePath>assets\sound\root_remove.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\star1.ogg">
+      <PackagePath>assets\sound\star1.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\star2.ogg">
+      <PackagePath>assets\sound\star2.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\star3.ogg">
+      <PackagePath>assets\sound\star3.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\stop_move.ogg">
+      <PackagePath>assets\sound\stop_move.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\teleport1.ogg">
+      <PackagePath>assets\sound\teleport1.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\teleport2.ogg">
+      <PackagePath>assets\sound\teleport2.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\teleport3.ogg">
+      <PackagePath>assets\sound\teleport3.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\transition.ogg">
+      <PackagePath>assets\sound\transition.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\water_remove.ogg">
+      <PackagePath>assets\sound\water_remove.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\water_set.ogg">
+      <PackagePath>assets\sound\water_set.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\assets\sound\win.ogg">
+      <PackagePath>assets\sound\win.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\cf\pb\1\configs\100\500\576742227280291406">
+      <PackagePath>cf\pb\1\configs\100\500\576742227280291406</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\data.flurry.com\aah.do">
+      <PackagePath>data.flurry.com\aah.do</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\index.bak.html">
+      <PackagePath>index.bak.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

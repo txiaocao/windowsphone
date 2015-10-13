@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="55075.655316E61FD31" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+			<Theme>LIGHT, DARK</Theme>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://55075.655316E61FD31/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="game.html" uri="ms-resource://55075.655316E61FD31/Files/game.html">
+				<Candidate type="Path">
+					<Value>game.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="icon.png" uri="ms-resource://55075.655316E61FD31/Files/icon.png"/>
+			<NamedResource name="project.json" uri="ms-resource://55075.655316E61FD31/Files/project.json">
+				<Candidate type="Path">
+					<Value>project.json</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="share.png" uri="ms-resource://55075.655316E61FD31/Files/share.png">
+				<Candidate type="Path">
+					<Value>share.png</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://55075.655316E61FD31/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://55075.655316E61FD31/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="default.css" uri="ms-resource://55075.655316E61FD31/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ui-themed.css" uri="ms-resource://55075.655316E61FD31/Files/css/ui-themed.css">
+					<Candidate qualifiers="Theme-LIGHT" isDefault="true" type="Path">
+						<Value>css\ui-themed.theme-light.css</Value>
+					</Candidate>
+					<Candidate qualifiers="Theme-DARK" isDefault="true" type="Path">
+						<Value>css\ui-themed.theme-dark.css</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>css\ui-themed.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://55075.655316E61FD31/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://55075.655316E61FD31/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://55075.655316E61FD31/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://55075.655316E61FD31/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://55075.655316E61FD31/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://55075.655316E61FD31/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="cocos2d-3.0rc1.canvas.v2.min.js" uri="ms-resource://55075.655316E61FD31/Files/js/cocos2d-3.0rc1.canvas.v2.min.js">
+					<Candidate type="Path">
+						<Value>js\cocos2d-3.0rc1.canvas.v2.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.js" uri="ms-resource://55075.655316E61FD31/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="game.min.js" uri="ms-resource://55075.655316E61FD31/Files/js/game.min.js">
+					<Candidate type="Path">
+						<Value>js\game.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="game9g.utils.js" uri="ms-resource://55075.655316E61FD31/Files/js/game9g.utils.js">
+					<Candidate type="Path">
+						<Value>js\game9g.utils.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="note">
+				<NamedResource name="20150408063555998.png" uri="ms-resource://55075.655316E61FD31/Files/note/20150408063555998.png">
+					<Candidate type="Path">
+						<Value>note\20150408063555998.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="20150505115401661.png" uri="ms-resource://55075.655316E61FD31/Files/note/20150505115401661.png">
+					<Candidate type="Path">
+						<Value>note\20150505115401661.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="逼死强迫症.txt" uri="ms-resource://55075.655316E61FD31/Files/note/逼死强迫症.txt">
+					<Candidate type="Path">
+						<Value>note\逼死强迫症.txt</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="res">
+				<NamedResource name="bg.png" uri="ms-resource://55075.655316E61FD31/Files/res/bg.png">
+					<Candidate type="Path">
+						<Value>res\bg.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imgs.json" uri="ms-resource://55075.655316E61FD31/Files/res/imgs.json">
+					<Candidate type="Path">
+						<Value>res\imgs.json</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="imgs.png" uri="ms-resource://55075.655316E61FD31/Files/res/imgs.png">
+					<Candidate type="Path">
+						<Value>res\imgs.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="src">
+				<NamedResource name="app.js" uri="ms-resource://55075.655316E61FD31/Files/src/app.js">
+					<Candidate type="Path">
+						<Value>src\app.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

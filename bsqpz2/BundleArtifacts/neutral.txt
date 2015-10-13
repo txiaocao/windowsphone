@@ -1,0 +1,2 @@
+MainPackage=C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bin\Release\bsqpz2_1.1.0.8_AnyCPU.appx
+ResourcePack=C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bin\Release\bsqpz2_1.1.0.8_scale-100.appx

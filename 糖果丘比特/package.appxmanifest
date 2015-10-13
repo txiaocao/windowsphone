@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="55075.681172311786" Version="1.1.0.10" Publisher="CN=D7C013C8-F86E-46C0-BFD5-EC4E4DD3FB44" />
+  <mp:PhoneIdentity PhoneProductId="cfb6f7b2-f7e4-4762-a229-c6c74c900425" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>糖果丘比特</DisplayName>
+    <PublisherDisplayName>银杏科技</PublisherDisplayName>
+    <Logo>images\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="index.html">
+      <m3:VisualElements DisplayName="糖果丘比特" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png" Description="糖果丘比特Simpless 有一种糖果，甜甜的水果糖外衣，里面却是高纯度的可可，苦涩难当。 它被赋予一个美丽的名字——丘比特，爱神之名。 甜蜜与醇苦， 幸福与折磨， 所谓爱，便被甜与苦反复包裹。" ForegroundText="light" BackgroundColor="transparent">
+        <m3:DefaultTile Square71x71Logo="images\Square71x71Logo.png">
+        </m3:DefaultTile>
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+        </m3:InitialRotationPreference>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+  </Capabilities>
+</Package>

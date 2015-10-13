@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>9a095ad2-9fcd-4d68-94af-df1174f31efb</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0'">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <PropertyGroup Label="Configuration">
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <RequiredPlatformVersion>8.1</RequiredPlatformVersion>
+    <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <DefaultLanguage>zh-CN</DefaultLanguage>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="api\js\game.js" />
+    <Content Include="app.css" />
+    <Content Include="assets\art.png" />
+    <Content Include="assets\art_usual_gems.png" />
+    <Content Include="assets\episode2\art.png" />
+    <Content Include="assets\episode2\back.jpg" />
+    <Content Include="assets\episode2\logo top.jpg" />
+    <Content Include="assets\episode2\main menu.jpg" />
+    <Content Include="assets\episode2\map1.jpg" />
+    <Content Include="assets\episode2\map2.jpg" />
+    <Content Include="assets\episode2\map3.jpg" />
+    <Content Include="assets\episode2\music\btcl_main_music.ogg" />
+    <Content Include="assets\episode2\tutorial\t1.png" />
+    <Content Include="assets\episode2\tutorial\t2.png" />
+    <Content Include="assets\episode2\tutorial\t3.png" />
+    <Content Include="assets\episode2\tutorial\t4.png" />
+    <Content Include="assets\episode2\tutorial\t5.png" />
+    <Content Include="assets\episode2\tutorial\t6.png" />
+    <Content Include="assets\episode2\tutorial\t7.png" />
+    <Content Include="assets\etc\bar.png" />
+    <Content Include="assets\etc\menu back.jpg" />
+    <Content Include="assets\preloader\circle.jpg" />
+    <Content Include="assets\preloader\preloader back no logo.jpg" />
+    <Content Include="assets\preloader\progressbar top.jpg" />
+    <Content Include="assets\preloader\zibbo_logo.png" />
+    <Content Include="assets\sound\bonus_bomb.ogg" />
+    <Content Include="assets\sound\bonus_color.ogg" />
+    <Content Include="assets\sound\bonus_line.ogg" />
+    <Content Include="assets\sound\bonus_set.ogg" />
+    <Content Include="assets\sound\bonus_show.ogg" />
+    <Content Include="assets\sound\bush_remove.ogg" />
+    <Content Include="assets\sound\button.ogg" />
+    <Content Include="assets\sound\cake_down.ogg" />
+    <Content Include="assets\sound\chocolate_bomb.ogg" />
+    <Content Include="assets\sound\choco_crash.ogg" />
+    <Content Include="assets\sound\color_crash.ogg" />
+    <Content Include="assets\sound\cookie_crash.ogg" />
+    <Content Include="assets\sound\fail.ogg" />
+    <Content Include="assets\sound\hero_hide.ogg" />
+    <Content Include="assets\sound\hero_show.ogg" />
+    <Content Include="assets\sound\pause.ogg" />
+    <Content Include="assets\sound\play_button.ogg" />
+    <Content Include="assets\sound\pointer.ogg" />
+    <Content Include="assets\sound\remove1.ogg" />
+    <Content Include="assets\sound\remove2.ogg" />
+    <Content Include="assets\sound\remove3.ogg" />
+    <Content Include="assets\sound\remove4.ogg" />
+    <Content Include="assets\sound\root_remove.ogg" />
+    <Content Include="assets\sound\star1.ogg" />
+    <Content Include="assets\sound\star2.ogg" />
+    <Content Include="assets\sound\star3.ogg" />
+    <Content Include="assets\sound\stop_move.ogg" />
+    <Content Include="assets\sound\teleport1.ogg" />
+    <Content Include="assets\sound\teleport2.ogg" />
+    <Content Include="assets\sound\teleport3.ogg" />
+    <Content Include="assets\sound\transition.ogg" />
+    <Content Include="assets\sound\water_remove.ogg" />
+    <Content Include="assets\sound\water_set.ogg" />
+    <Content Include="assets\sound\win.ogg" />
+    <Content Include="cdn.flurry.com\js\flurry.js" />
+    <Content Include="cf\pb\1\configs\100\500\576742227280291406" />
+    <Content Include="code.createjs.com\createjs-2014.12.12.min.js" />
+    <Content Include="createjs-2014.12.12.min.js" />
+    <Content Include="data.flurry.com\aah.do" />
+    <Content Include="default.html" />
+    <Content Include="flurry.js" />
+    <Content Include="game.js" />
+    <Content Include="images\Square150x150Logo.scale-240.png" />
+    <Content Include="images\Square44x44Logo.scale-240.png" />
+    <Content Include="images\Wide310x150Logo.scale-240.png" />
+    <Content Include="images\Square71x71Logo.scale-240.png" />
+    <Content Include="images\SplashScreen.scale-240.png" />
+    <Content Include="images\StoreLogo.scale-240.png" />
+    <Content Include="index.bak.html" />
+    <Content Include="index.html" />
+    <Content Include="jelly.js" />
+    <Content Include="jquery.1.9.1.js" />
+    <Content Include="js\default.js" />
+    <Content Include="css\default.css" />
+    <Content Include="css\ui-themed.css" />
+    <Content Include="css\ui-themed.theme-dark.css" />
+    <Content Include="css\ui-themed.theme-light.css" />
+    <Content Include="lib\viewporter.js" />
+    <Content Include="mirror\img\logo_gamesgames_202x50.png" />
+    <Content Include="StoreManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Microsoft.Phone.WinJS.2.1, Version=1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="df9aa4793b5\Updated_BTC2_V3-27-03\" />
+    <Folder Include="lg\pb\1\ut\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

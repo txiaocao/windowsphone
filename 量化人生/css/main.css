@@ -1,0 +1,57 @@
+﻿*{
+	padding: 0;margin: 0;
+}
+html{
+	width: 100%;height: 100%;
+}
+body{
+	
+}
+div.render{
+
+	width: 100%;height: 100%;
+	display: table;
+}
+div.pages.start{
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+	height: 100%;
+}
+div.pages.start h1{
+	margin-bottom: 15px;
+}
+
+div.pages.main h1 em{
+	font-style: normal;
+	font-size: 12px;
+	color: lightgray;
+
+}
+div.pages.select-date{
+	margin: 25px;
+}
+div.pages.select-date .win-datepicker-date{
+	display:none;
+}
+
+div.pages.main{
+	height: 100%;
+}
+div.pages.main div.box{
+	height: 100%;
+}
+div.box span.item{
+	display: inline-block;
+	background: #fbfbfb;
+	float: left;
+	margin: 1px 0;
+	width: 1%;
+	height: 5%;
+}
+div.box span.item.active{
+	background: #ffd800;
+}
+div.box span.item.now{
+	background: #0094ff;
+}

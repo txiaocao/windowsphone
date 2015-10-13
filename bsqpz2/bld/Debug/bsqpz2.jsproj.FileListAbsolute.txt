@@ -1,0 +1,15 @@
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bin\Debug\ReverseMap\resources.pri
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bin\Debug\AppxManifest.xml
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bin\Debug\bsqpz2.build.appxrecipe
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\priconfig.xml
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\priconfig.xml.intermediate
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\layout.resfiles
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\layout.resfiles.intermediate
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\resources.resfiles
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\resources.resfiles.intermediate
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\pri.resfiles
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\pri.resfiles.intermediate
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\qualifiers.txt
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\qualifiers.txt.intermediate
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\k\Documents\Visual Studio 2015\Projects\WindowsPhone开发\bsqpz2\bld\Debug\ProjectArchitectures.txt

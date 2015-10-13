@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-20120726YXBR</Machine>
+    <WindowsUser>cof</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f993e41f-4432-4ffd-a387-a075d1a0f2ac</PackageIdentityName>
+    <IntermediateOutputPath>c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\bgMenu2.png">
+      <PackagePath>assets\bgMenu2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\bgnoire2.png">
+      <PackagePath>assets\bgnoire2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\bgPlay2.png">
+      <PackagePath>assets\bgPlay2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\bgPreload2.png">
+      <PackagePath>assets\bgPreload2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\bg_fips2.png">
+      <PackagePath>assets\bg_fips2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\bg_shop2.png">
+      <PackagePath>assets\bg_shop2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\client02.png">
+      <PackagePath>assets\client02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\client12.png">
+      <PackagePath>assets\client12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\client22.png">
+      <PackagePath>assets\client22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\client32.png">
+      <PackagePath>assets\client32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\cups_drink2.png">
+      <PackagePath>assets\cups_drink2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\etoile_total2.png">
+      <PackagePath>assets\etoile_total2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\juce_cups2.png">
+      <PackagePath>assets\juce_cups2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\juice_void2.png">
+      <PackagePath>assets\juice_void2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\levelbnt2.png">
+      <PackagePath>assets\levelbnt2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\logo_softgames2.png">
+      <PackagePath>assets\logo_softgames2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\map12.png">
+      <PackagePath>assets\map12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\map22.png">
+      <PackagePath>assets\map22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\obj2.png">
+      <PackagePath>assets\obj2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\preloadBar2.png">
+      <PackagePath>assets\preloadBar2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\rotate2.png">
+      <PackagePath>assets\rotate2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\sprites.bak2.png">
+      <PackagePath>assets\sprites.bak2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\sprites.png">
+      <PackagePath>assets\sprites.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\three_stars2.png">
+      <PackagePath>assets\three_stars2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\three_stars_gris2.png">
+      <PackagePath>assets\three_stars_gris2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\timer_client2.png">
+      <PackagePath>assets\timer_client2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\timer_vide2.png">
+      <PackagePath>assets\timer_vide2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\tube_score2.png">
+      <PackagePath>assets\tube_score2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\music\song17.mp3">
+      <PackagePath>assets\music\song17.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\music\sounds.mp3">
+      <PackagePath>assets\music\sounds.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\assets\sprites.xml">
+      <PackagePath>assets\sprites.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\game.html">
+      <PackagePath>game.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\softgames_game.js">
+      <PackagePath>softgames_game.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\xiaok\computer\Documents\Visual Studio 2015\Projects\fruit-splash\fruit-splash\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

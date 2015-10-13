@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-20120726YXBR</Machine>
+    <WindowsUser>cof</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cfb6f7b2-f7e4-4762-a229-c6c74c900425</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\app.css">
+      <PackagePath>app.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\all.png">
+      <PackagePath>assets\art\all.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\boom.png">
+      <PackagePath>assets\art\boom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\buttons.png">
+      <PackagePath>assets\art\buttons.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\candies.png">
+      <PackagePath>assets\art\candies.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\clouds.png">
+      <PackagePath>assets\art\clouds.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\cloud_logo.png">
+      <PackagePath>assets\art\cloud_logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\gui_font.png">
+      <PackagePath>assets\art\gui_font.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\lighting.png">
+      <PackagePath>assets\art\lighting.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\main_menu_hills.png">
+      <PackagePath>assets\art\main_menu_hills.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\main_menu_rainbow.png">
+      <PackagePath>assets\art\main_menu_rainbow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\main_menu_white_front.png">
+      <PackagePath>assets\art\main_menu_white_front.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\map_font.png">
+      <PackagePath>assets\art\map_font.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\message_window.png">
+      <PackagePath>assets\art\message_window.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\perfect_star_off_1.png">
+      <PackagePath>assets\art\perfect_star_off_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\perfect_star_on_1.png">
+      <PackagePath>assets\art\perfect_star_on_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\rotate.png">
+      <PackagePath>assets\art\rotate.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\score_font.png">
+      <PackagePath>assets\art\score_font.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\select_level_back.png">
+      <PackagePath>assets\art\select_level_back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\task_panel.png">
+      <PackagePath>assets\art\task_panel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\tile.png">
+      <PackagePath>assets\art\tile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\title.png">
+      <PackagePath>assets\art\title.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\top_panel.png">
+      <PackagePath>assets\art\top_panel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\icon.png">
+      <PackagePath>icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\icon.png">
+      <PackagePath>images\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\wp_ss_20150701_0002.png">
+      <PackagePath>images\wp_ss_20150701_0002.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\wp_ss_20150701_0003.png">
+      <PackagePath>images\wp_ss_20150701_0003.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\images\wp_ss_20150701_0004.png">
+      <PackagePath>images\wp_ss_20150701_0004.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\fill_bottom.jpg">
+      <PackagePath>assets\art\fill_bottom.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\fill_top.jpg">
+      <PackagePath>assets\art\fill_top.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\main_menu_back.jpg">
+      <PackagePath>assets\art\main_menu_back.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\map_1.jpg">
+      <PackagePath>assets\art\map_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\map_2.jpg">
+      <PackagePath>assets\art\map_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\map_3.jpg">
+      <PackagePath>assets\art\map_3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\art\map_4.jpg">
+      <PackagePath>assets\art\map_4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sg.hooks.js">
+      <PackagePath>assets\sg.hooks.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\softgames-1.1.js">
+      <PackagePath>assets\softgames-1.1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\softgames_game.js">
+      <PackagePath>softgames_game.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\awesome.ogg">
+      <PackagePath>assets\sound\awesome.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\boom.ogg">
+      <PackagePath>assets\sound\boom.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\click.ogg">
+      <PackagePath>assets\sound\click.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\drop_1.ogg">
+      <PackagePath>assets\sound\drop_1.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\drop_2.ogg">
+      <PackagePath>assets\sound\drop_2.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\drop_3.ogg">
+      <PackagePath>assets\sound\drop_3.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\exchange.ogg">
+      <PackagePath>assets\sound\exchange.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\kill_color.ogg">
+      <PackagePath>assets\sound\kill_color.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\lighting.ogg">
+      <PackagePath>assets\sound\lighting.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\line.ogg">
+      <PackagePath>assets\sound\line.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\lose.ogg">
+      <PackagePath>assets\sound\lose.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\match_1.ogg">
+      <PackagePath>assets\sound\match_1.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\match_2.ogg">
+      <PackagePath>assets\sound\match_2.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\match_3.ogg">
+      <PackagePath>assets\sound\match_3.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\match_4.ogg">
+      <PackagePath>assets\sound\match_4.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\match_5.ogg">
+      <PackagePath>assets\sound\match_5.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\music.ogg">
+      <PackagePath>assets\sound\music.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\assets\sound\win.ogg">
+      <PackagePath>assets\sound\win.ogg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cof\Documents\Visual Studio 2015\Projects\wp开发\糖果丘比特\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

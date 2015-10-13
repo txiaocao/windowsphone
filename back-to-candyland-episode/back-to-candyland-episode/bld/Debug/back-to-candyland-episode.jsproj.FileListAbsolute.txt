@@ -1,0 +1,15 @@
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bin\Debug\ReverseMap\resources.pri
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bin\Debug\AppxManifest.xml
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bin\Debug\back-to-candyland-episode.build.appxrecipe
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\priconfig.xml
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\priconfig.xml.intermediate
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\layout.resfiles
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\layout.resfiles.intermediate
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\resources.resfiles
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\resources.resfiles.intermediate
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\pri.resfiles
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\pri.resfiles.intermediate
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\qualifiers.txt
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\qualifiers.txt.intermediate
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\cof\documents\visual studio 2015\Projects\back-to-candyland-episode\back-to-candyland-episode\bld\Debug\ProjectArchitectures.txt
